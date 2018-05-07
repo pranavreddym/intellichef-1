@@ -1,317 +1,317 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
-MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.6.18.aar\3fd94a16b5a4b11619da844b95505d30\AndroidManifest.xml:2:1-6:12
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:2:1-21:80
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:2:1-10:80
-MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.18.aar\4419c0a6ba503182cbdccac4fd4146a0\AndroidManifest.xml:2:1-4:80
-MERGED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:transition:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0edd8a2f2f25abdcb06e1bcf32e840f9\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\862540e921c639f7f875735d4394a98a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\572c0d24c94298dfa05c583b7bd586c7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\702b8878e37f1debf4d44f99f6f54011\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6e91ffd9f92fc4f67b18c872b7c6bf09\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4025b9d58de0a7bfbd5b5cd97d269c8c\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2e1951218197ad02a948861c1443c28\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b24acafa037a5335a0b0e85bb16aee7e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\135a4bd3a2fa1d3274df4caf99839cd6\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7b8b3cbaa904bf194109fd4b4a43091a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e01d8bc86c3530f1c0185f70f45b6d12\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c17a862ea0b8b0a0848f357a7820cb9a\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9dc96532d38ca28aed5035d18d1d0803\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.18.aar/3c6c2b930ec6fe4fb7b55bfa0bfa7d58/AndroidManifest.xml:2:1-6:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:2:1-21:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:2:1-10:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.18.aar/a53b0c3ae87ebb37252d44798a4d5fbd/AndroidManifest.xml:2:1-4:80
+MERGED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6ccde47a2904e80a1b103d17d9a1feef/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4baa4c2abf81590b11dd6b9ca095c9be/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8249948d8a47dbf0244315c627ac2eb2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/d34874a969363599aa14ed7c7c046edf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/93d8f727bb98f80be890d28416970e6c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5e2417e1cc6921097190f78cde4b7226/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0399acbcde348061b15d2b2526074383/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a1db535d0327e315da68e339a972986c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b17692eda208ab2742ce6dadde2e5e1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cfe7ff9492d4bbe895f6b883dd1a194c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6c1556210e2cf2bb3fefd4efcc8c3f37/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c4a836c2f5cca1407b4a2c5a5f7a304e/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
 	package
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:1-53:12
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:1-53:12
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:4:5-66
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:4:5-66
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:4:5-66
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:4:5-66
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:4:5-66
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:6:5-79
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:5:5-78
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:5:5-78
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:5:5-78
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:5:5-78
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:5:5-78
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:8:5-80
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:8:22-77
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:8:22-77
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:9:5-65
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:9:22-62
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:9:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:12:5-14:36
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:12:5-14:36
 	android:required
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:14:9-33
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:14:9-33
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:13:9-47
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:13:9-47
 application
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:16:5-51:19
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:8:6-20:20
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:8:6-20:20
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:7:5-9:19
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:7:5-9:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0edd8a2f2f25abdcb06e1bcf32e840f9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0edd8a2f2f25abdcb06e1bcf32e840f9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\862540e921c639f7f875735d4394a98a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\862540e921c639f7f875735d4394a98a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\572c0d24c94298dfa05c583b7bd586c7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\572c0d24c94298dfa05c583b7bd586c7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\702b8878e37f1debf4d44f99f6f54011\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\702b8878e37f1debf4d44f99f6f54011\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6e91ffd9f92fc4f67b18c872b7c6bf09\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6e91ffd9f92fc4f67b18c872b7c6bf09\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4025b9d58de0a7bfbd5b5cd97d269c8c\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4025b9d58de0a7bfbd5b5cd97d269c8c\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2e1951218197ad02a948861c1443c28\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2e1951218197ad02a948861c1443c28\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b24acafa037a5335a0b0e85bb16aee7e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b24acafa037a5335a0b0e85bb16aee7e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\135a4bd3a2fa1d3274df4caf99839cd6\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\135a4bd3a2fa1d3274df4caf99839cd6\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7b8b3cbaa904bf194109fd4b4a43091a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7b8b3cbaa904bf194109fd4b4a43091a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e01d8bc86c3530f1c0185f70f45b6d12\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e01d8bc86c3530f1c0185f70f45b6d12\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c17a862ea0b8b0a0848f357a7820cb9a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c17a862ea0b8b0a0848f357a7820cb9a\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9dc96532d38ca28aed5035d18d1d0803\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9dc96532d38ca28aed5035d18d1d0803\AndroidManifest.xml:24:5-28:19
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:16:5-51:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:8:6-20:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:8:6-20:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:7:5-9:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:7:5-9:19
+MERGED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6ccde47a2904e80a1b103d17d9a1feef/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6ccde47a2904e80a1b103d17d9a1feef/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4baa4c2abf81590b11dd6b9ca095c9be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4baa4c2abf81590b11dd6b9ca095c9be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8249948d8a47dbf0244315c627ac2eb2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8249948d8a47dbf0244315c627ac2eb2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/d34874a969363599aa14ed7c7c046edf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/d34874a969363599aa14ed7c7c046edf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/93d8f727bb98f80be890d28416970e6c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/93d8f727bb98f80be890d28416970e6c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5e2417e1cc6921097190f78cde4b7226/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5e2417e1cc6921097190f78cde4b7226/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0399acbcde348061b15d2b2526074383/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0399acbcde348061b15d2b2526074383/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a1db535d0327e315da68e339a972986c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a1db535d0327e315da68e339a972986c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b17692eda208ab2742ce6dadde2e5e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b17692eda208ab2742ce6dadde2e5e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cfe7ff9492d4bbe895f6b883dd1a194c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cfe7ff9492d4bbe895f6b883dd1a194c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6c1556210e2cf2bb3fefd4efcc8c3f37/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6c1556210e2cf2bb3fefd4efcc8c3f37/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c4a836c2f5cca1407b4a2c5a5f7a304e/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c4a836c2f5cca1407b4a2c5a5f7a304e/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:21:9-35
 	android:label
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:19:9-41
 	android:roundIcon
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:20:9-54
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:20:9-54
 	android:icon
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:18:9-43
 	android:allowBackup
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:22:9-40
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:22:9-40
 activity#com.example.ankita.intellichef.MainActivity
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:23:9-50
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:23:9-50
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:23:19-47
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:23:19-47
 service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:25:9-27:38
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:25:9-27:38
 	android:enabled
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:27:13-35
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:27:13-35
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:26:13-93
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:26:13-93
 activity#com.example.ankita.intellichef.ImageDisplay
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:29:9-50
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:29:9-50
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:29:19-47
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:29:19-47
 activity#com.example.ankita.intellichef.uploadS3
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:30:9-46
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:30:9-46
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:30:19-43
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:30:19-43
 activity#com.example.ankita.intellichef.AuthenticatorActivity
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:31:9-40:20
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:31:9-40:20
 	android:label
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:33:13-65
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:33:13-65
 	android:theme
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:34:13-56
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:32:13-50
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:32:13-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:38:27-74
 activity#com.example.ankita.intellichef.ingredients
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:41:9-44:59
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:41:9-44:59
 	android:label
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:43:13-63
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:43:13-63
 	android:theme
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:44:13-56
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:44:13-56
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:42:13-40
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:42:13-40
 activity#com.example.ankita.intellichef.recipeDisplay
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:45:9-48:68
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:45:9-48:68
 	android:label
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:47:13-66
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:47:13-66
 	android:theme
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:48:13-56
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:48:13-56
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:46:13-42
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:46:13-42
 activity#com.example.ankita.intellichef.WebViewPage
-ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:50:5-54
+ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:50:5-54
 	android:name
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml:50:15-42
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml:50:15-42
 uses-sdk
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.6.18.aar\3fd94a16b5a4b11619da844b95505d30\AndroidManifest.xml:4:5-73
-MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.6.18.aar\3fd94a16b5a4b11619da844b95505d30\AndroidManifest.xml:4:5-73
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:21:1-69
-MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:21:1-69
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:10:1-69
-MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:10:1-69
-MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.18.aar\4419c0a6ba503182cbdccac4fd4146a0\AndroidManifest.xml:4:1-69
-MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.18.aar\4419c0a6ba503182cbdccac4fd4146a0\AndroidManifest.xml:4:1-69
-MERGED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:transition:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0edd8a2f2f25abdcb06e1bcf32e840f9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0edd8a2f2f25abdcb06e1bcf32e840f9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\862540e921c639f7f875735d4394a98a\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\862540e921c639f7f875735d4394a98a\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\572c0d24c94298dfa05c583b7bd586c7\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\572c0d24c94298dfa05c583b7bd586c7\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\702b8878e37f1debf4d44f99f6f54011\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\702b8878e37f1debf4d44f99f6f54011\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6e91ffd9f92fc4f67b18c872b7c6bf09\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6e91ffd9f92fc4f67b18c872b7c6bf09\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4025b9d58de0a7bfbd5b5cd97d269c8c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4025b9d58de0a7bfbd5b5cd97d269c8c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2e1951218197ad02a948861c1443c28\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2e1951218197ad02a948861c1443c28\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b24acafa037a5335a0b0e85bb16aee7e\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b24acafa037a5335a0b0e85bb16aee7e\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\135a4bd3a2fa1d3274df4caf99839cd6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\135a4bd3a2fa1d3274df4caf99839cd6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7b8b3cbaa904bf194109fd4b4a43091a\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7b8b3cbaa904bf194109fd4b4a43091a\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e01d8bc86c3530f1c0185f70f45b6d12\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e01d8bc86c3530f1c0185f70f45b6d12\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c17a862ea0b8b0a0848f357a7820cb9a\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c17a862ea0b8b0a0848f357a7820cb9a\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9dc96532d38ca28aed5035d18d1d0803\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9dc96532d38ca28aed5035d18d1d0803\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.18.aar/3c6c2b930ec6fe4fb7b55bfa0bfa7d58/AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.18.aar/3c6c2b930ec6fe4fb7b55bfa0bfa7d58/AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:21:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:21:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.18.aar/a53b0c3ae87ebb37252d44798a4d5fbd/AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.18.aar/a53b0c3ae87ebb37252d44798a4d5fbd/AndroidManifest.xml:4:1-69
+MERGED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6ccde47a2904e80a1b103d17d9a1feef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6ccde47a2904e80a1b103d17d9a1feef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4baa4c2abf81590b11dd6b9ca095c9be/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4baa4c2abf81590b11dd6b9ca095c9be/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8249948d8a47dbf0244315c627ac2eb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8249948d8a47dbf0244315c627ac2eb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/d34874a969363599aa14ed7c7c046edf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/d34874a969363599aa14ed7c7c046edf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/93d8f727bb98f80be890d28416970e6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/93d8f727bb98f80be890d28416970e6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5e2417e1cc6921097190f78cde4b7226/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5e2417e1cc6921097190f78cde4b7226/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0399acbcde348061b15d2b2526074383/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0399acbcde348061b15d2b2526074383/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a1db535d0327e315da68e339a972986c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a1db535d0327e315da68e339a972986c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b17692eda208ab2742ce6dadde2e5e1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b17692eda208ab2742ce6dadde2e5e1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cfe7ff9492d4bbe895f6b883dd1a194c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cfe7ff9492d4bbe895f6b883dd1a194c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6c1556210e2cf2bb3fefd4efcc8c3f37/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6c1556210e2cf2bb3fefd4efcc8c3f37/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c4a836c2f5cca1407b4a2c5a5f7a304e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c4a836c2f5cca1407b4a2c5a5f7a304e/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\panny\Downloads\intellichef-master 2\intellichef-master\IntelliChef\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:6:5-75
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:6:5-75
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:6:22-73
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:6:22-73
 activity#com.amazonaws.mobile.auth.userpools.ForgotPasswordActivity
-ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:9:10-10:21
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:9:10-10:21
 	android:screenOrientation
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:9:220-256
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:9:220-256
 	android:label
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:9:91-145
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:9:91-145
 	android:configChanges
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:9:20-90
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:9:20-90
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:9:146-219
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:9:146-219
 activity#com.amazonaws.mobile.auth.userpools.SignUpActivity
-ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:12:10-13:21
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:12:10-13:21
 	android:screenOrientation
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:12:204-240
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:12:204-240
 	android:label
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:12:91-137
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:12:91-137
 	android:configChanges
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:12:20-90
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:12:20-90
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:12:138-203
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:12:138-203
 activity#com.amazonaws.mobile.auth.userpools.MFAActivity
-ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:15:10-16:21
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:15:10-16:21
 	android:screenOrientation
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:15:197-233
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:15:197-233
 	android:label
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:15:91-133
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:15:91-133
 	android:configChanges
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:15:20-90
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:15:20-90
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:15:134-196
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:15:134-196
 activity#com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity
-ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:18:10-19:21
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:18:10-19:21
 	android:screenOrientation
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:18:219-255
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:18:219-255
 	android:label
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:18:91-145
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:18:91-145
 	android:configChanges
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:18:20-90
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:18:20-90
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\1764053ef28b8032085e0b23a57d931a\AndroidManifest.xml:18:146-218
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/83dcf6a707e495e0afc217df37a23c2e/AndroidManifest.xml:18:146-218
 activity#com.amazonaws.mobile.auth.ui.SignInActivity
-ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:8:9-234
+ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:8:9-234
 	android:screenOrientation
-		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:8:196-232
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:8:196-232
 	android:label
-		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:8:90-136
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:8:90-136
 	android:configChanges
-		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:8:19-89
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:8:19-89
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\422a3ca28d7717a3666aa86095329b78\AndroidManifest.xml:8:137-195
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/ankita/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/608170190611fb9c84acb53da0860138/AndroidManifest.xml:8:137-195
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0edd8a2f2f25abdcb06e1bcf32e840f9\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0edd8a2f2f25abdcb06e1bcf32e840f9\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\862540e921c639f7f875735d4394a98a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\862540e921c639f7f875735d4394a98a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\572c0d24c94298dfa05c583b7bd586c7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\572c0d24c94298dfa05c583b7bd586c7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6e91ffd9f92fc4f67b18c872b7c6bf09\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\6e91ffd9f92fc4f67b18c872b7c6bf09\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4025b9d58de0a7bfbd5b5cd97d269c8c\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4025b9d58de0a7bfbd5b5cd97d269c8c\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2e1951218197ad02a948861c1443c28\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2e1951218197ad02a948861c1443c28\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b24acafa037a5335a0b0e85bb16aee7e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b24acafa037a5335a0b0e85bb16aee7e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\135a4bd3a2fa1d3274df4caf99839cd6\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\135a4bd3a2fa1d3274df4caf99839cd6\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7b8b3cbaa904bf194109fd4b4a43091a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7b8b3cbaa904bf194109fd4b4a43091a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e01d8bc86c3530f1c0185f70f45b6d12\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e01d8bc86c3530f1c0185f70f45b6d12\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c17a862ea0b8b0a0848f357a7820cb9a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c17a862ea0b8b0a0848f357a7820cb9a\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6ccde47a2904e80a1b103d17d9a1feef/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6ccde47a2904e80a1b103d17d9a1feef/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4baa4c2abf81590b11dd6b9ca095c9be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4baa4c2abf81590b11dd6b9ca095c9be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/d34874a969363599aa14ed7c7c046edf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/d34874a969363599aa14ed7c7c046edf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/93d8f727bb98f80be890d28416970e6c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/93d8f727bb98f80be890d28416970e6c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5e2417e1cc6921097190f78cde4b7226/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5e2417e1cc6921097190f78cde4b7226/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0399acbcde348061b15d2b2526074383/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0399acbcde348061b15d2b2526074383/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a1db535d0327e315da68e339a972986c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a1db535d0327e315da68e339a972986c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b17692eda208ab2742ce6dadde2e5e1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b17692eda208ab2742ce6dadde2e5e1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cfe7ff9492d4bbe895f6b883dd1a194c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cfe7ff9492d4bbe895f6b883dd1a194c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6c1556210e2cf2bb3fefd4efcc8c3f37/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6c1556210e2cf2bb3fefd4efcc8c3f37/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.1.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\27333182ae53f17a6f75058c093b0ddb\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9dc96532d38ca28aed5035d18d1d0803\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c4a836c2f5cca1407b4a2c5a5f7a304e/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9dc96532d38ca28aed5035d18d1d0803\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c4a836c2f5cca1407b4a2c5a5f7a304e/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\panny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9dc96532d38ca28aed5035d18d1d0803\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c4a836c2f5cca1407b4a2c5a5f7a304e/AndroidManifest.xml:26:13-58

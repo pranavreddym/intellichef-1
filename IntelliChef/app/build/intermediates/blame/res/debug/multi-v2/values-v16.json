@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\panny\\Downloads\\intellichef-master 2\\intellichef-master\\IntelliChef\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\panny\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\c17a862ea0b8b0a0848f357a7820cb9a\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\panny\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\862540e921c639f7f875735d4394a98a\\res\\values-v16\\values-v16.xml",
+                    "source": "/Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6c1556210e2cf2bb3fefd4efcc8c3f37/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

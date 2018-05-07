@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\panny\\Downloads\\intellichef-master 2\\intellichef-master\\IntelliChef\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "/Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\panny\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\862540e921c639f7f875735d4394a98a\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\panny\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\27333182ae53f17a6f75058c093b0ddb\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

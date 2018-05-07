@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\panny\\Downloads\\intellichef-master 2\\intellichef-master\\IntelliChef\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/Users/ankita/Documents/GitHub/intellichef-1/IntelliChef/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\panny\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\862540e921c639f7f875735d4394a98a\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\panny\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\27333182ae53f17a6f75058c093b0ddb\\res\\values-land\\values-land.xml",
+                    "source": "/Users/ankita/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/007282038a2a70a77be02ec35acd47c9/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "9",
                         "endColumns": "12",
                         "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "/Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd3a927044d4375a027fbe8db384ee8/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

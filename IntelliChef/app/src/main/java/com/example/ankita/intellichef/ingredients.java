@@ -35,9 +35,8 @@ public class ingredients extends AsyncTask {
          context= (Context)objects[0];
         final ClarifaiClient client = new ClarifaiBuilder("a590fa7b18de43c59e9eaabaa1c05f3d").buildSync();
         Model<Concept> generalModel = client.getDefaultModels().generalModel();
-        loadWords(context.getResources().openRawResource(
-                context.getResources().getIdentifier("ingredients.txt",
-                        "raw", context.getPackageName())));
+        int id= R.raw.ingredients;
+        loadWords(context.getResources().openRawResource(id));
         PredictRequest<Concept> request = generalModel.predict().withInputs(
                 ClarifaiInput.forImage("https://s3.amazonaws.com/intellichef-userfiles-mobilehub-2071945737/s3Folder/s3Key.jpg")
         );
@@ -54,7 +53,7 @@ public class ingredients extends AsyncTask {
         System.out.println("i1 is "+i1);
         c= result.listIterator();
         ClarifaiOutput<Concept> conceptClarifaiOutput= c.next();
-        //System.out.println(" hello " +  conceptClarifaiOutput);
+        System.out.println(" hello " +  conceptClarifaiOutput);
 
 
             int check=0;

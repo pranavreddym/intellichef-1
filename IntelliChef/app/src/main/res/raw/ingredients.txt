@@ -596,7 +596,7 @@ dill weed
 Fleischmann's RapidRise Yeast
 honey
 melted butter
-apples
+apple
 white bread
 plain low fat greek yogurt
 mandarin oranges
@@ -1011,3 +1011,12 @@ virgin coconut oil
 carne asada
 nonfat yogurt
 cooked chicken breasts
+egg
+tomato
+cucumber
+banana
+apple
+nutella
+coffee
+orange
+grape
