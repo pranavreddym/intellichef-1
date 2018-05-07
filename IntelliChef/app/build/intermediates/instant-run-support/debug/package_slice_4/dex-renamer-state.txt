@@ -1,0 +1,4 @@
+#Sun May 06 20:51:31 EDT 2018
+base.0=C\:\\Users\\panny\\Downloads\\intellichef-master 2\\intellichef-master\\IntelliChef\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

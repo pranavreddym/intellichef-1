@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntelliChef</string>
+    <string name="title_activity_authenticator">AuthenticatorActivity</string>
+    <string name="title_activity_ingredients">ingredients</string>
+    <string name="title_activity_recipe_display">recipeDisplay</string>
+    <string name="action_settings">Settings</string>
+</resources>

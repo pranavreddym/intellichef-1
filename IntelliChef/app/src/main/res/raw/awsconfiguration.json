@@ -1,0 +1,46 @@
+{
+  "UserAgent": "MobileHub/1.0",
+  "Version": "1.0",
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "us-east-1:0e690c2d-e740-451a-9800-3141e911d61f",
+        "Region": "us-east-1"
+      }
+    }
+  },
+  "IdentityManager": {
+    "Default": {}
+  },
+  "CognitoUserPool": {
+    "Default": {
+      "PoolId": "us-east-1_lY3TJswKC",
+      "AppClientId": "euuq09j2mhinieqlld73mru09",
+      "AppClientSecret": "1iejub13e917d2d2vronourgeau2ank15i7cklpild4i1ql5opls",
+      "Region": "us-east-1"
+    }
+  },
+  "S3TransferUtility": {
+    "Default": {
+      "Bucket": "intellichef-userfiles-mobilehub-2071945737",
+      "Region": "us-east-1"
+    }
+  },
+  "PinpointAnalytics": {
+    "Default": {
+      "AppId": "0a21841fccbd4225938f6312e64ac273",
+      "Region": "us-east-1"
+    }
+  },
+  "PinpointTargeting": {
+    "Default": {
+      "Region": "us-east-1"
+    }
+  },
+  "UserFileManager": {
+    "Default": {
+      "Bucket": "intellichef-userfiles-mobilehub-2071945737",
+      "Region": "us-east-1"
+    }
+  }
+}
